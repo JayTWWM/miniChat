@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1024144563716",
+    "firebase_url": "https://minichat-907eb.firebaseio.com",
+    "project_id": "minichat-907eb",
+    "storage_bucket": "minichat-907eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024144563716:android:bb1cb45d83b2945d465f51",
+        "android_client_info": {
+          "package_name": "com.twwm.miniChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024144563716-uapgd57mlkr5hsg8on65sfrmrn4fvap4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBss9J3iY1KXw31Unn8cHolnu1UqILph48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024144563716-uapgd57mlkr5hsg8on65sfrmrn4fvap4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
